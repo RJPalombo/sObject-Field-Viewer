@@ -237,10 +237,10 @@
     <WebReferences Include="Web References\" />
   </ItemGroup>
   <ItemGroup>
-    <WebReferenceUrl Include="C:\Users\rjpalombo\Documents\projects\sObjectFieldViewer\sObjectFieldViewer\wsdl.xml">
+    <WebReferenceUrl Include="C:\Users\%25username%25\Documents\projects\sObjectFieldViewer\sObjectFieldViewer\wsdl.xml">
       <UrlBehavior>Dynamic</UrlBehavior>
       <RelPath>Web References\sforce\</RelPath>
-      <UpdateFromURL>C:\Users\rjpalombo\Documents\projects\sObjectFieldViewer\sObjectFieldViewer\wsdl.xml</UpdateFromURL>
+      <UpdateFromURL>C:\Users\%25username%25\Documents\projects\sObjectFieldViewer\sObjectFieldViewer\wsdl.xml</UpdateFromURL>
       <ServiceLocationURL>
       </ServiceLocationURL>
       <CachedDynamicPropName>
