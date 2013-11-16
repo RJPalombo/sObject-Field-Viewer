@@ -21,7 +21,7 @@ namespace sObjectFieldViewer
         //DataGridViewRowsAddedEventArgs picklist values
 
 
-        [ExcelCommand(MenuName = "&SForce Excel Helpers", MenuText = "&Get Schema", Name="GetSchema")]
+        [ExcelCommand(MenuName = "&SForce Excel Helpers", MenuText = "&Get fields from object", Name="GetSchema")]
         public static void MenuGetSchema()
         {
             try
